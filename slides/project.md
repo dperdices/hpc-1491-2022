@@ -49,11 +49,13 @@ header-includes: |
 
 
 #
-\section{J. Wang, J. Fernández del Pozo, "Pending title"}
+\section{J. Wang, J. Fernández del Pozo, "Point Fishing"}
 
 #
-\section{A. Macia, A. Quiles, "Pending title"}
+\section{A. Macia, A. Quiles, "TBD"}
 
+# 
+\section{D. Kleindiek, C. Chan, V. Fernandes, M. El-Haddid, "Training of NN by using CPU or GPU"}
 
 #
 \section{Material}
